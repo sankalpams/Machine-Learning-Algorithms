@@ -86,32 +86,6 @@ Each project includes:
 
 ---
 
-## 📂 Repository Structure
-
-```
-machine-learning-portfolio/
-│
-├── supervised-learning/
-│   ├── classification/
-│   └── regression/
-│
-├── unsupervised-learning/
-│   ├── clustering/
-│   ├── association/
-│   └── anomaly-detection/
-│
-├── semi-supervised-learning/
-│
-├── reinforcement-learning/
-│
-├── datasets/
-├── notebooks/
-├── src/
-└── README.md
-```
-
----
-
 ## 📊 Datasets Used
 
 Datasets are sourced from:
@@ -120,9 +94,6 @@ Datasets are sourced from:
 * UCI Machine Learning Repository
 * OpenML
 * Public datasets (e.g., MNIST, CIFAR-10)
-
-Each project folder includes dataset links and descriptions.
-
 ---
 
 ## ⚙️ Technologies Used
@@ -138,11 +109,11 @@ Each project folder includes dataset links and descriptions.
 
 ## 📈 Key Features
 
-✔ Clean and well-structured code
-✔ Visualizations for better understanding
-✔ Comparison between algorithms
-✔ Real-world problem statements
-✔ Beginner-friendly explanations
+✔ Clean and well-structured code<br/>
+✔ Visualizations for better understanding<br/>
+✔ Comparison between algorithms<br/>
+✔ Real-world problem statements<br/>
+✔ Beginner-friendly explanations<br/>
 
 ---
 
@@ -154,16 +125,6 @@ Each project folder includes dataset links and descriptions.
 * Practice real-world problem solving
 
 ---
-
-## 📌 Future Improvements
-
-* Add Deep Learning projects (CNN, RNN)
-* Deploy models using Flask / FastAPI
-* Add Streamlit dashboards
-* Hyperparameter tuning (GridSearch, RandomSearch)
-
----
-
 ## 🤝 Contributing
 
 Contributions are welcome!
