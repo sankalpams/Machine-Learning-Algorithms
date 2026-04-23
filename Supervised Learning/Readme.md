@@ -1,17 +1,11 @@
 # 🔷 Supervised Learning
 
-## 📌 Overview
+This folder contains beginner-level supervised learning projects focused on understanding how models learn from labeled data to make predictions.
 
-This folder contains beginner-level supervised learning projects focused on predicting outcomes using labeled data.
+## 📊 Covers
 
----
-
-## 📊 Tasks Covered
-
-* Classification (e.g., spam detection, loan prediction)
-* Regression (e.g., house price prediction)
-
----
+* **Classification tasks** (e.g., spam detection, loan approval prediction)
+* **Regression tasks** (e.g., house price estimation)
 
 ## ⚙️ Algorithms Used
 
@@ -21,20 +15,18 @@ This folder contains beginner-level supervised learning projects focused on pred
 * Decision Tree
 * Random Forest
 * Support Vector Machine (SVM)
-* Linear & Lasso Regression
-
----
+* Linear Regression
+* Lasso Regression
 
 ## 🔄 Workflow
 
-1. Data preprocessing
-2. Model training
-3. Evaluation
-4. Visualization
+Each project follows a simple process:
 
----
+* Data preprocessing
+* Model training
+* Model evaluation
+* Visualization
 
 ## 🎯 Goal
 
-Build a strong understanding of basic supervised learning concepts through simple, practical projects.
-
+Build a strong foundation in core supervised learning concepts through hands-on, beginner-friendly projects.
