@@ -7,7 +7,7 @@ This repository is designed to strengthen practical understanding, showcase proj
 
 ## 📌 Overview
 
-This repository includes implementations of:
+This repository includes implementations of,
 
 * Supervised Learning (Classification & Regression)
 * Unsupervised Learning (Clustering, Association, Anomaly Detection)
