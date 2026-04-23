@@ -1,2 +1,187 @@
-# Machine-Learning-Algorithms
-A beginner-focused collection of Machine Learning projects aimed at building a strong foundation in core algorithms. This repository emphasizes learning by doing, with simple implementations and clear explanations.
+# 🚀 Machine Learning Algorithms Portfolio
+
+A comprehensive collection of hands-on projects covering essential Machine Learning algorithms every data scientist should know.
+This repository is designed to strengthen practical understanding, showcase projects, and build a strong GitHub portfolio.
+
+---
+
+## 📌 Overview
+
+This repository includes implementations of:
+
+* Supervised Learning (Classification & Regression)
+* Unsupervised Learning (Clustering, Association, Anomaly Detection)
+* Semi-Supervised Learning
+* Reinforcement Learning
+
+Each project includes:
+
+* Real-world dataset
+* Data preprocessing
+* Model building
+* Evaluation metrics
+* Visualizations
+
+---
+
+## 🧠 Algorithms Covered
+
+### 🔷 Supervised Learning
+
+#### 📍 Classification
+
+* Logistic Regression
+* K-Nearest Neighbors (KNN)
+* Naive Bayes
+* Decision Tree
+* Random Forest
+* Support Vector Machine (SVM)
+
+#### 📍 Regression
+
+* Linear Regression
+* Multivariate Regression
+* Lasso Regression
+
+---
+
+### 🔶 Unsupervised Learning
+
+#### 📍 Clustering
+
+* K-Means Clustering
+* DBSCAN
+* Principal Component Analysis (PCA)
+* Independent Component Analysis (ICA)
+
+#### 📍 Association
+
+* Apriori Algorithm
+* FP-Growth
+
+#### 📍 Anomaly Detection
+
+* Z-Score Method
+* Isolation Forest
+
+---
+
+### 🔷 Semi-Supervised Learning
+
+* Self-Training
+* Co-Training
+
+---
+
+### 🔷 Reinforcement Learning
+
+#### 📍 Model-Free
+
+* Q-Learning
+* Policy Optimization
+
+#### 📍 Model-Based
+
+* Model Learning Approaches
+
+---
+
+## 📂 Repository Structure
+
+```
+machine-learning-portfolio/
+│
+├── supervised-learning/
+│   ├── classification/
+│   └── regression/
+│
+├── unsupervised-learning/
+│   ├── clustering/
+│   ├── association/
+│   └── anomaly-detection/
+│
+├── semi-supervised-learning/
+│
+├── reinforcement-learning/
+│
+├── datasets/
+├── notebooks/
+├── src/
+└── README.md
+```
+
+---
+
+## 📊 Datasets Used
+
+Datasets are sourced from:
+
+* Kaggle
+* UCI Machine Learning Repository
+* OpenML
+* Public datasets (e.g., MNIST, CIFAR-10)
+
+Each project folder includes dataset links and descriptions.
+
+---
+
+## ⚙️ Technologies Used
+
+* Python 🐍
+* NumPy
+* Pandas
+* Scikit-learn
+* Matplotlib / Seaborn
+* Jupyter Notebook
+
+---
+
+## 📈 Key Features
+
+✔ Clean and well-structured code
+✔ Visualizations for better understanding
+✔ Comparison between algorithms
+✔ Real-world problem statements
+✔ Beginner-friendly explanations
+
+---
+
+## 🎯 Purpose
+
+* Strengthen Machine Learning fundamentals
+* Build a strong GitHub portfolio
+* Prepare for internships and job interviews
+* Practice real-world problem solving
+
+---
+
+## 📌 Future Improvements
+
+* Add Deep Learning projects (CNN, RNN)
+* Deploy models using Flask / FastAPI
+* Add Streamlit dashboards
+* Hyperparameter tuning (GridSearch, RandomSearch)
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome!
+Feel free to fork this repo and submit a pull request.
+
+---
+
+## ⭐ Support
+
+If you find this helpful, give it a ⭐ on GitHub!
+
+---
+
+## 📬 Contact
+
+* Name - Malith Shehan
+* Email - sankalpams19@gmail.com
+---
+
+> <b>“Practice is the key to mastering Machine Learning.”</b>
+
