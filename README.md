@@ -142,7 +142,3 @@ If you find this helpful, give it a ⭐ on GitHub!
 
 * Name - Malith Shehan
 * Email - sankalpams19@gmail.com
----
-
-> <b>“Practice is the key to mastering Machine Learning.”</b>
-
