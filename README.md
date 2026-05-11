@@ -3,8 +3,6 @@
 A comprehensive collection of hands-on projects covering essential Machine Learning algorithms every data scientist should know.
 This repository is designed to strengthen practical understanding, showcase projects, and build a strong GitHub portfolio.
 
----
-
 ## 📌 Overview
 
 This repository includes implementations of,
