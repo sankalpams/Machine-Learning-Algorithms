@@ -1,9 +1,9 @@
 # Customer Segmentation using K-Means Clustering
 
 ## 📌 Project Overview
-This project implements the K-Means Clustering algorithm, an unsupervised machine learning technique used to group similar data points into clusters.  
+This project implements the K-Means Clustering algorithm, an unsupervised machine learning technique used to group similar data points into clusters
 
-The model analyzes mall customer data and segments customers based on their annual income and spending score.
+The model analyzes mall customer data and segments customers based on their annual income and spending score
 
 ---
 
