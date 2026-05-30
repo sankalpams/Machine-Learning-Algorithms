@@ -94,6 +94,22 @@ The project uses the Multinomial Naive Bayes algorithm, which is commonly used f
 | F1 Score | 85% |
 
 ---
+# 📸 Visualizations
+
+## 📌 Sentiment Distribution
+<img src = "https://github.com/sankalpams/Machine-Learning-Algorithms/blob/6c6fe8a8be47bf901378195ea80ec06bfcfc2a98/Supervised%20Learning/Classification/Naive%20Bayes/Visuals/Sentiment%20Distribution.png" height = "350">
+
+## 📌 Confusion Matrix
+<img src = "https://github.com/sankalpams/Machine-Learning-Algorithms/blob/6c6fe8a8be47bf901378195ea80ec06bfcfc2a98/Supervised%20Learning/Classification/Naive%20Bayes/Visuals/Confusion%20Matrix.png" height = "350">
+
+## 📌 Model Performance Metrics
+<img src = "https://github.com/sankalpams/Machine-Learning-Algorithms/blob/6c6fe8a8be47bf901378195ea80ec06bfcfc2a98/Supervised%20Learning/Classification/Naive%20Bayes/Visuals/Model%20Performace%20Matrics.png" height = "350">
+
+## 📌 Positive Word Cloud
+<img src = "https://github.com/sankalpams/Machine-Learning-Algorithms/blob/6c6fe8a8be47bf901378195ea80ec06bfcfc2a98/Supervised%20Learning/Classification/Naive%20Bayes/Visuals/Positive%20WordCloud.png" height = "350">
+
+## 📌 Negative Word Cloud
+<img src = "https://github.com/sankalpams/Machine-Learning-Algorithms/blob/6c6fe8a8be47bf901378195ea80ec06bfcfc2a98/Supervised%20Learning/Classification/Naive%20Bayes/Visuals/Negetive%20WordCloud.png" height = "350">
 
 
 # 📊 Key Insights
