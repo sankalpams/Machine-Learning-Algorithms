@@ -133,10 +133,3 @@ Feel free to fork this repo and submit a pull request.
 ## ⭐ Support
 
 If you find this helpful, give it a ⭐ on GitHub!
-
----
-
-## 📬 Contact
-
-* Name - Malith Shehan
-* Email - sankalpams19@gmail.com
