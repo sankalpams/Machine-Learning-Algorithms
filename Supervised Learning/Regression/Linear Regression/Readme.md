@@ -55,9 +55,3 @@ This project predicts salary based on **years of experience** using **Linear Reg
 ## 💡 Insight
 
 Salary increases linearly with experience, and the model shows good prediction performance.
-
----
-
-## ⭐ Support
-
-Give a ⭐ if you found this useful!
